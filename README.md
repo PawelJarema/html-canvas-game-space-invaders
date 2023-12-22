@@ -27,7 +27,7 @@ Run **index.html** in a web browser to play.
 
 To change settings edit **/src/index.js** and build.
 
-Enjoy dem holidays!
+Enjoy and happy holidays! :)
 
 ```js
 //           |~
