@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'Nosifier';
+    font-style: normal;
+    font-weight: normal;
+    src: url('./src/assets/nosifer.ttf'); /* Change to match your local font location */
+}
+
+html, body {
+    background: #121212;
+    height: 100vh;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+#canvas {
+    display: block;
+}
